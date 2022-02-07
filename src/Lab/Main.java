@@ -1,6 +1,6 @@
 /**
  * Name: Saul Ouellet
- * Date: Feb 7tu 2022
+ * Date: Feb 7th 2022
  * Description: Program creates a MyPoint class to simulate a coordinate on a 2D grid.
  * Implements methods to print, calculate distance, find in an array, and
  * determine if points make a line.
